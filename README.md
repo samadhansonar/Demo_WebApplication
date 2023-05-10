@@ -1,5 +1,5 @@
 # Demo_WebApplication
-develop a small web application in which user can download a file if input is valid meeting following criteria:
+develop a small web application in which user can download a file if input is valid .
 1. Create page named 'test' with textbox and button.
 2. Create a list of predefined words. (you can create list of your choice)
 3. When user submit page we will check for filtered words in user input.
